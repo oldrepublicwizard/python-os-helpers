@@ -488,5 +488,5 @@ def format_exception_message(exception: Exception) -> str:
 
 
 def is_installation_path(path: object) -> bool:
-    """Always False in standalone build (KotOR Installation type removed)."""
+    """Always False in this build."""
     return False

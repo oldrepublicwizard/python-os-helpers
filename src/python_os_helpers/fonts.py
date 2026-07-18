@@ -1,7 +1,7 @@
 """Font path utilities for cross-platform font discovery.
 
 This module provides functions for finding TTF font files on different operating systems.
-These are general utility functions, not specific to KOTOR.
+General font/path helpers.
 """
 
 from __future__ import annotations
